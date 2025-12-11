@@ -1,5 +1,8 @@
 fn trim_me(input: &str) -> &str {
     // TODO: Remove whitespace from both ends of a string.
+    while let i =  {
+        
+    }
 }
 
 fn compose_me(input: &str) -> String {
